@@ -37,4 +37,19 @@ finally, these pixel information sent binary to the screen witch is your display
 the screen is an output device that converts these binary numbers into a tiny little pixel 
 and represent them to gather to show the image (for example).
 
+### how software and hardware can act to gather 
 
+the cpu recieves a simple commands that tell it witch ciurcit to use ,
+for example , one circuit can be used to calculate a number , while the other
+can be used to store this the output into the memory 
+
+*the binary numbers are stored in the memory and fitch \ execute them one by one 
+software tells the computer most of the times what todo , but when you are surfing the web , 
+and lestining to music , and chatting with a friend on the same time 
+the computer runs all of these process to gather 
+
+but how the computer can run all of this information at once 
+**to find out we have to take a look into the OPERATING SYSTEM :D** 
+
+the operation system is the master program that manges to tell the computer how to handle all 
+of such information to gather
