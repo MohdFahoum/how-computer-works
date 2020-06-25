@@ -53,3 +53,5 @@ but how the computer can run all of this information at once
 
 the operation system is the master program that manges to tell the computer how to handle all 
 of such information to gather
+
+[read05](./README05.md)
