@@ -14,3 +14,15 @@ using the tags and this will select every given tag and apply the given properti
 ### Opacity
 
 introduces the opacity property which allows you to specify the opacity of an element 
+
+### CSS Colors
+
+Colors in CSS can be specified by the following methods:
+
+Hexadecimal colors
+RGB colors
+RGBA colors
+HSL colors
+HSLA colors
+Predefined/Cross-browser color names
+With the currentcolor keyword
