@@ -20,9 +20,16 @@ introduces the opacity property which allows you to specify the opacity of an el
 Colors in CSS can be specified by the following methods:
 
 Hexadecimal colors
+
 RGB colors
+
 RGBA colors
+
 HSL colors
+
 HSLA colors
+
 Predefined/Cross-browser color names
+
 With the currentcolor keyword
+
